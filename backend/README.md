@@ -1,7 +1,9 @@
 # greengrid-admin-server
 
 GreenGrid 新能源企业运营数据可视化平台 —— 后端服务（Spring Boot 3 + MyBatis-Plus + MySQL 8 + JWT）。
-
+前端仓库地址：
+Gitee：https://gitee.com/rainbow-under-the-sunshine/New-Energy-Platform
+Githup：https://github.com/MENHL/New-Energy-Platform
 ## 技术栈与版本
 
 | 组件 | 版本 | 说明 |
